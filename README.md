@@ -1,7 +1,7 @@
 # OnePageBlogger
 ##a one page template for Blogger (Blogspot) blogs
 
-OnePageBlogger is a one page template for Blogger. You can use it to create your own personal web page, like this guy or get to work using your HTML & CSS skills and make something interesting.
+OnePageBlogger is a one page template for Blogger. You can use it to create your own personal web page, like [this guy] or get to work using your HTML & CSS skills and make something interesting.
 
 The best part, there is no compulsion for you to give credits to me or a link to my github profile. I know how much that sucks :p
 
@@ -54,3 +54,4 @@ You just changed the logo.
 
 ###Now you’re good to go.
 [demo link]:http://onepageblogger.blogspot.com
+[this guy]:http://rajhimself.com
