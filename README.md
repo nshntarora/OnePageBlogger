@@ -7,6 +7,8 @@ The best part, there is no compulsion for you to give credits to me or a link to
 
 That said, I have added my name and my twitter handle as a comment in the source code (It won’t be visible to the public), for humanity’s sake, let it be there :)
 
+###[demo link]
+
 ##Installation:
 1. Open your blog’s dashboard.
 2. Click on Template option on the left sidebar.
@@ -51,3 +53,4 @@ Below this line you'll see an img tag, replace the existing source URL with the 
 You just changed the logo.
 
 ###Now you’re good to go.
+[demo link]:http://onepageblogger.blogspot.com
