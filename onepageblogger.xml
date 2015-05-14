@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="<$BlogLanguageDirection$>">
+<head>
+  <title><$BlogPageTitle$></title>
+  <$BlogMetaData$>
+  <link rel="icon" href="http://lh4.googleusercontent.com/--8mfcGr7Vjg/VQUZscdVY_I/AAAAAAAAAIY/-Ee6M6nMhg4/h120/favicon.ico" type="favicon" />
+  <style type="text/css">
+
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     OnePageBlogger
+Designer: Nishant Arora
+URL:      http://github.com/nshntarora
+----------------------------------------------- */
+body {
+  font-family: "Roboto Slab",serif;
+  background-color: #A47B3F;
+  color: #fff;
+  text-align: center;
+}
+
+p {
+  font-size: 100%;
+  text-align: center;
+  line-height: 1.5em;
+}
+
+a {
+  color: #fff;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+#header {
+  padding-top: 5%;
+}
+
+#blog-title img {
+  height: 40%;
+}
+
+#main {
+  text-align: center;
+  margin: 0px auto;
+  max-width: 50%;
+  padding-top: 3%;
+}
+
+#footer {
+  text-align: -moz-center;
+  font-size: 80%;
+  padding-top: 2%;
+}
+  </style>
+</head>
+<body>
+<div id="header">
+  <div id="blog-title">
+    <ItemPage><a href="<$BlogURL$>"></ItemPage>
+  <img src="https://lh3.googleusercontent.com/-M-aarjAzwK4/VVRgpNIyqdI/AAAAAAAAAMM/kjWofr4-Ybo/h120/OPB%2BLogo.png">
+  <ItemPage></a></ItemPage>
+  </div>
+</div>
+<div id="main">
+<p>OnePageBlogger is a one page template for Blogger. You can use it to create your own personal web page, like this guy or get to work using your HTML &amp; CSS skills and make something interesting. Instructions on how to install it can be found in the README on my <a href="https://github.com/nshntarora/OnePageBlogger">GitHub repo</a> for this template.<br><br>
+The best part, there is no compulsion for you to give credits to me or a link to my github profile. I know how much that sucks :p
+That said, I have added my name and my github profile as a comment in the source code (It won’t be visible to the public), for humanity’s sake, let it be there :)
+</p>
+</div>
+<div id="footer">
+  for the planet before mars, by <a href="http://twitter.com/nshntarora">@nshntarora</a>
+</div>
+</body>
+<!--Google Web Font Script "Roboto Slab" -->
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Roboto+Slab::latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+<!--Google Web Font Script "Roboto Slab" -->
+</html>
